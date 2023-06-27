@@ -1,0 +1,3 @@
+[submodule "js-getting-started-projects"]
+	path = js-getting-started-projects
+	url = git@github.com:iaamlele/js-getting-started-projects.git
